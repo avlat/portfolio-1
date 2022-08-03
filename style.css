@@ -16,6 +16,11 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    background: var(--white);
+    color: var(--black);
+}
+
 li {
     list-style-type: none;
 }
