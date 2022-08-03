@@ -29,6 +29,18 @@ a {
     text-decoration: none;
 }
 
+a:link, a:visited {
+    color: var(--black);
+}
+
+a:hover {
+    color: var(--light-mode-turquoise);
+}
+
+a:active {
+    color: var(--light-mode-gold);
+}
+
 /* header */
 
 header {
