@@ -56,3 +56,22 @@ header {
 header nav ul li {
     text-transform: uppercase;
 }
+
+/* main */
+
+main {
+    padding: 0 1rem 1rem;
+}
+
+article {
+    margin-top: 0;
+}
+
+h2 {
+    padding-bottom: 1rem;
+}
+
+#projects, #about, #contact {
+    padding: 8rem 0 0;
+    margin: 0;
+}
