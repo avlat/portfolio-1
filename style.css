@@ -1,3 +1,12 @@
+:root {
+    --black: #09020b;
+    --white: #fbf4fd;
+    --dark-mode-turquoise: #1D8775;
+    --dark-mode-gold: #8B751D;
+    --light-mode-turquoise: #1B7E6E;
+    --light-mode-gold: #7E6A1B;
+}
+
 * {
     margin: 0;
     padding: 0;
