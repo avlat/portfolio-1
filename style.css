@@ -75,3 +75,8 @@ h2 {
     padding: 8rem 0 0;
     margin: 0;
 }
+  
+::selection {
+    background: var(--black);
+    color: var(--white);
+}
